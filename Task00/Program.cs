@@ -1,4 +1,4 @@
-﻿// 
+﻿// Вывод символа n раз
 
 string PrintString (int count, string text)
 {
